@@ -11,7 +11,6 @@
     <option value="canada">Canada</option>
     <option value="usa">USA</option>
   </select>
-
   <input type="submit" value="Submit">
 </form>
 <form id="regForm" action="">
