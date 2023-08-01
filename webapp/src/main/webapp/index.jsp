@@ -5,7 +5,7 @@
 
 <!-- One "tab" for each step in the form: -->
 <div class="tab">Name:
-  <p><input placeholder="hgfgfgfgfgfgfgfgfgfgfgfgfgfdhg name..." oninput="this.className = ''"></p>
+  <p><input placeholder="hgfgfg name..." oninput="this.className = ''"></p>
   <p><input placeholder="Last name..." oninput="this.className = ''"></p>
 </div>
 
